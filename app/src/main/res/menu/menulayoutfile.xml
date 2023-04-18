@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/settingid"
+        android:title="setting"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/shareid"
+        android:title="share"
+        app:showAsAction="never"
+        />   <item
+        android:id="@+id/contuctid"
+        android:title="contact"
+        app:showAsAction="never"
+        android:icon="@drawable/ic_baseline_contact_phone_24"
+        />   <item
+        android:id="@+id/aboutid"
+        android:title="about"
+        app:showAsAction="never"
+        />
+
+</menu>
